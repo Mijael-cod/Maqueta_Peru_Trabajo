@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    width: 1000px;
+    height: 100px;
+    background-color: rgb(241, 9, 9); 
+    margin: auto;  
+    display: flex;
+}
+h1{
+    width: 600px;
+    height: 100px;
+    color: rgb(255, 255, 255);
+
+    font-size: 150%;
+    margin-top: 30px;
+    text-align: center;
+    
+}
+#Logo{
+    background-color: white;
+    width: 400px;
+    height: 100px;
+}
+main{
+    margin: 0 auto;
+    width: 1000px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+#rectangulito{
+    width: 1000px;
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+section{
+    width: 300px;
+    height: 500px;
+}
+h2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+p{
+    text-align: center;
+    margin: 0 auto;
+    color: rgb(255, 255, 255);
+}
+#Cuadro{
+    background-color: red;
+    width: 700px;
+    height: 100px;
+    padding-top: 30px;
+}
+#dni{
+    display: flex;
+    margin-left: 10px;
+}
+input{
+    width: 600px;
+    height: 45px;
+}
+#loguito{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+aside{
+    width: 700px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    
+}
+#rectangulo{
+    margin: auto;
+    width: 1000px;
+    height: 120px;
+    background-color: rgb(250, 1, 1);
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+}
+h3{
+    margin-left: 10px;
+}
+.input1{
+    margin-left: 40px;
+    background-color: red;
+    color: rgb(255, 255, 255);
+    border: rgb(255, 255, 255);
+    font-size: 150%;
+}
+p5{
+    margin-left: 160px;
+    color: royalblue;
+}
+#pregunta{
+    width: 900px;
+    height: 50px;
+    display: flex;
+    font-size: 12px;
+    color: white;
+}
+#imagenes{
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    
+}
+.img1{
+    margin-right: 400px;
+    margin-left: 170px;
+}
+.img2{
+    margin-left:  230px;
+    margin-right: 0 auto;
+}
+
+.img3{
+    margin-left: 50px;
+    
+}
+a{
+    color: white;
+}
+.a1{
+    color: darkblue;
+}
